@@ -8,7 +8,7 @@ __credits__     = ["Rafa Couto"]
 __license__     = "GPLv3"
 __version__     = "2012.11.16"
 __maintainer__  = "Rafa Couto"
-__email__       = "rafa@aplicacionesyredes.com"
+__email__       = "caligari@treboada.net"
 
 
 
